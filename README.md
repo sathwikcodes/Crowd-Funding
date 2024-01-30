@@ -20,7 +20,7 @@ This project aims to democratize fundraising by eliminating the need for interme
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
-  git clone https://github.com/your-username/crowdfundchain.git
+  git clone https://github.com/sathwikcodes/Crowd-Funding.git
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using npm or yarn:
   cd crowdfundchain
   npm install
@@ -39,7 +39,7 @@ This project aims to democratize fundraising by eliminating the need for interme
 - Project developed by [Sathwik Batta]
 - Technologies used:
 - React
-- Blockchain (e.g., Ethereum)
+- Blockchain (e.g., Ethereum)  
 
 ## Feedback and Contributions
 
